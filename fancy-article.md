@@ -3,6 +3,7 @@ description: This is a fancy article
 ---
 
 # Fancy Article
+You can still edit this locally and push to GitHub.
 
 ## Getting Super Powers
 
